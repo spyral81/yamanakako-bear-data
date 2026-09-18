@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-09-17T12:15:05+00:00",
- "total": 234,
+ "generated_at": "2026-09-18T13:22:47+00:00",
+ "total": 235,
  "sightings": [
+  {
+   "date": "2026-09-17",
+   "location": "富士吉田市 上吉田地内",
+   "area": "上吉田地内",
+   "detail": "8:40頃 走行中に公園入口付近にいるクマを目撃。",
+   "source": "山梨県",
+   "lat": 35.44779,
+   "lng": 138.76836,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士吉田市",
+   "notes": "環境: 林間部の公道／対応: 防災無線による注意喚起、市職員・猟友会によるパトロール・動物駆逐用煙火による追い払い。／位置は地区の代表点（おおよそ）",
+   "hash": "2bce4dae7f95f49dab791f15d2a91a87"
+  },
   {
    "date": "2026-09-16",
    "location": "富士河口湖町 船津",
