@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T17:51:17+00:00",
- "total": 236,
+ "generated_at": "2026-10-06T15:40:44+00:00",
+ "total": 237,
  "sightings": [
   {
    "date": "2026-10-05",
@@ -17,6 +17,22 @@
    "municipality": "西桂町",
    "notes": "環境: ／対応: ／位置は地区の代表点（おおよそ）",
    "hash": "16a869d3a1911f96da0e7f999dbb056d"
+  },
+  {
+   "date": "2026-10-05",
+   "location": "西桂町 下暮地地内",
+   "area": "下暮地地内",
+   "detail": "2:00頃 西桂町下暮地地内、仏眼寺付近で目撃、その後山林に逃げた",
+   "source": "山梨県",
+   "lat": 35.52342,
+   "lng": 138.85015,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "西桂町",
+   "notes": "環境: 山林／対応: 防災無線による注意喚起、パトロール実施／位置は地区の代表点（おおよそ）",
+   "hash": "526d216bb59ab3f104e1b384d3cadb5d"
   },
   {
    "date": "2026-09-17",
