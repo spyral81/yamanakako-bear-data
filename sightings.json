@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T15:40:44+00:00",
- "total": 237,
+ "generated_at": "2026-10-13T16:42:36+00:00",
+ "total": 240,
  "sightings": [
   {
    "date": "2026-10-05",
@@ -403,6 +403,22 @@
    "hash": "d44d85b9f7e84413a8ed1c36260320e5"
   },
   {
+   "date": "2026-06-23",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.41）",
+   "source": "山中湖村",
+   "lat": 35.443,
+   "lng": 138.923,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "fce6a99cab99eab2a36d496e0f1e4a2b"
+  },
+  {
    "date": "2026-06-20",
    "location": "道志村 室久保地区",
    "area": "室久保地区",
@@ -449,6 +465,38 @@
    "municipality": "山中湖村",
    "notes": "環境: 市街地（林地に隣接）／対応: 防災無線による注意喚起、HP掲載、パトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "239816b5b35d7fb1ce495bb7dc278130"
+  },
+  {
+   "date": "2026-06-19",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.40）",
+   "source": "山中湖村",
+   "lat": 35.435,
+   "lng": 138.915,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "e4f6bf3257ba8764d4e65aaf8456b698"
+  },
+  {
+   "date": "2026-06-19",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.39）",
+   "source": "山中湖村",
+   "lat": 35.441,
+   "lng": 138.921,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "3d1a1bbee37e1cacd09797008078e5e6"
   },
   {
    "date": "2026-06-16",
