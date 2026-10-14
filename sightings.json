@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-10-13T16:42:36+00:00",
- "total": 240,
+ "generated_at": "2026-10-14T14:19:08+00:00",
+ "total": 241,
  "sightings": [
+  {
+   "date": "2026-10-13",
+   "location": "鳴沢村 字富士山",
+   "area": "字富士山",
+   "detail": "9:30頃 南方向へ移動した。",
+   "source": "山梨県",
+   "lat": 35.47818,
+   "lng": 138.7097,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "鳴沢村",
+   "notes": "環境: 別荘地内／対応: 防災無線による注意喚起、HPでの注意喚起、パトロール実施／位置は地区の代表点（おおよそ）",
+   "hash": "e4970ddb8b87a8604d1655df05788f29"
+  },
   {
    "date": "2026-10-05",
    "location": "西桂町 下暮地地内",
