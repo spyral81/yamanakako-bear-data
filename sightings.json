@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-10-14T14:19:08+00:00",
- "total": 241,
+ "generated_at": "2026-10-19T16:10:48+00:00",
+ "total": 290,
  "sightings": [
+  {
+   "date": "2026-10-16",
+   "location": "山中湖村 山中地区",
+   "area": "山中地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.42）",
+   "source": "山中湖村",
+   "lat": 35.433,
+   "lng": 138.846,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "01330877494690d1970182be11ca58c3"
+  },
   {
    "date": "2026-10-13",
    "location": "鳴沢村 字富士山",
@@ -819,6 +835,22 @@
    "hash": "564f3bd0bd2dc42e0d505ff4bfc2b1e8"
   },
   {
+   "date": "2026-03-20",
+   "location": "山中湖村 山中地区（忍野村境）",
+   "area": "山中地区（忍野村境）",
+   "detail": "山中湖村の目撃情報地図に掲載（No.35）",
+   "source": "山中湖村",
+   "lat": 35.444,
+   "lng": 138.84,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "25f400f1b1a96fdb4846a04b817f7766"
+  },
+  {
    "date": "2026-03-14",
    "location": "忍野村 内野地区",
    "area": "内野地区",
@@ -865,6 +897,22 @@
    "municipality": "山中湖村",
    "notes": "環境: 別荘地／対応: 防災無線による注意喚起、パトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "4d46822ac0fc2b83115f03a2b4e24553"
+  },
+  {
+   "date": "2026-01-18",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.34）",
+   "source": "山中湖村",
+   "lat": 35.432,
+   "lng": 138.867,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "dcab07adc08ffa31f27ba681a9d61a5b"
   },
   {
    "date": "2025-12-18",
@@ -1059,6 +1107,22 @@
    "hash": "7f3e83f1756c0c30069df734ff013b39"
   },
   {
+   "date": "2025-11-18",
+   "location": "山中湖村 山中地区",
+   "area": "山中地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.33）",
+   "source": "山中湖村",
+   "lat": 35.401,
+   "lng": 138.857,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "02ca4376b2b18d6bd539c4af79355a5b"
+  },
+  {
    "date": "2025-11-15",
    "location": "忍野村 忍草地区",
    "area": "忍草地区",
@@ -1203,6 +1267,22 @@
    "hash": "a0639185e6fa57ffb0ca8829569f07fc"
   },
   {
+   "date": "2025-11-06",
+   "location": "山中湖村 村内",
+   "area": "村内",
+   "detail": "山中湖村の目撃情報地図に掲載（No.32）",
+   "source": "山中湖村",
+   "lat": 35.409,
+   "lng": 138.916,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "d76e911a07393282d4872f7f2c83a15b"
+  },
+  {
    "date": "2025-11-04",
    "location": "富士河口湖町 河口",
    "area": "河口",
@@ -1265,6 +1345,38 @@
    "municipality": "山中湖村",
    "notes": "環境: ハイキングコース／対応: 防災無線による注意喚起、パトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "35b8019509e1546d4de37a339d067ac7"
+  },
+  {
+   "date": "2025-11-04",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.31）",
+   "source": "山中湖村",
+   "lat": 35.42,
+   "lng": 138.911,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "8f395eff7733dbea7229832421bdd70e"
+  },
+  {
+   "date": "2025-11-04",
+   "location": "山中湖村 山中地区",
+   "area": "山中地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.30）",
+   "source": "山中湖村",
+   "lat": 35.408,
+   "lng": 138.857,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "3b1fad2b6b77a86e3c43e6987e4308c3"
   },
   {
    "date": "2025-11-03",
@@ -1345,6 +1457,54 @@
    "municipality": "山中湖村",
    "notes": "環境: 市街地／対応: 防災無線による注意喚起、パトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "dd1888233171b6feffee7e5467e4d6e9"
+  },
+  {
+   "date": "2025-11-02",
+   "location": "山中湖村 村内",
+   "area": "村内",
+   "detail": "山中湖村の目撃情報地図に掲載（No.29）",
+   "source": "山中湖村",
+   "lat": 35.44,
+   "lng": 138.835,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "726d634b5e0aac010445b4802ca359f7"
+  },
+  {
+   "date": "2025-11-02",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.28）",
+   "source": "山中湖村",
+   "lat": 35.44,
+   "lng": 138.89,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "fa0ce3a33c4630d0455edd600aa15fdc"
+  },
+  {
+   "date": "2025-11-02",
+   "location": "山中湖村 村内",
+   "area": "村内",
+   "detail": "山中湖村の目撃情報地図に掲載（No.26）",
+   "source": "山中湖村",
+   "lat": 35.45,
+   "lng": 138.902,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "cea3f66b8a00288898720162ce302354"
   },
   {
    "date": "2025-10-30",
@@ -1827,6 +1987,22 @@
    "hash": "2491fc2159df14d4e676522e31a01087"
   },
   {
+   "date": "2025-07-25",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.21）",
+   "source": "山中湖村",
+   "lat": 35.427,
+   "lng": 138.886,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "19b8ced9c6ec13c1a2c1612ccce14b6c"
+  },
+  {
    "date": "2025-07-23",
    "location": "富士吉田市 上吉田地内",
    "area": "上吉田地内",
@@ -1841,6 +2017,22 @@
    "municipality": "富士吉田市",
    "notes": "環境: 森林地域の事業所／対応: 防災無線による注意喚起、警察パトカーによる巡回、職員、猟友会によるパトロール実施。／位置は地区の代表点（おおよそ）",
    "hash": "2440e7b5f581c91f0882d6bf2ae096de"
+  },
+  {
+   "date": "2025-07-20",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.20）",
+   "source": "山中湖村",
+   "lat": 35.403,
+   "lng": 138.874,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "9e6be11a6b6401d012c83a401f597026"
   },
   {
    "date": "2025-07-19",
@@ -2065,6 +2257,22 @@
    "municipality": "山中湖村",
    "notes": "環境: 住宅に近い山林／対応: 防災無線による注意喚起、パトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "5752e7c4ec72dba6c944150e880ee0b8"
+  },
+  {
+   "date": "2025-07-03",
+   "location": "山中湖村 平野地区",
+   "area": "平野地区",
+   "detail": "山中湖村の目撃情報地図に掲載（No.19）",
+   "source": "山中湖村",
+   "lat": 35.394,
+   "lng": 138.863,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "dceba3399083fd29caec708957ba6378"
   },
   {
    "date": "2025-06-28",
@@ -2563,6 +2771,22 @@
    "hash": "6643e27a321cf4d03ba23610a1963003"
   },
   {
+   "date": "2025-05-14",
+   "location": "山中湖村 村内",
+   "area": "村内",
+   "detail": "山中湖村の目撃情報地図に掲載（No.18）",
+   "source": "山中湖村",
+   "lat": 35.428,
+   "lng": 138.868,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "d9dc5df0d4d0379f966f671f361e8266"
+  },
+  {
    "date": "2025-04-08",
    "location": "鳴沢村 ジラゴンノ地区",
    "area": "ジラゴンノ地区",
@@ -2595,6 +2819,22 @@
    "hash": "7b2c17fdf1e1b0923406140791708bcb"
   },
   {
+   "date": "2025-03-17",
+   "location": "富士河口湖町 西湖地内",
+   "area": "西湖地内",
+   "detail": "13:00頃 爪で樹皮を剥いでかじっていた い。 っそ たの 。後南西方向へ走って",
+   "source": "山梨県",
+   "lat": 35.49712,
+   "lng": 138.68624,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山中（登山道から20ｍ程西側）／対応: 猟友会に情報提供／位置は地区の代表点（おおよそ）",
+   "hash": "837fd217d10d9146be7ec04fbb18d352"
+  },
+  {
    "date": "2024-12-17",
    "location": "富士河口湖町 西湖地内",
    "area": "西湖地内",
@@ -2611,6 +2851,22 @@
    "hash": "351834f04246f1ef091ff322b3f3db76"
   },
   {
+   "date": "2024-12-17",
+   "location": "富士河口湖町 西湖地内",
+   "area": "西湖地内",
+   "detail": "15:30頃 雪 山頭 へヶ 入岳 っ登 て山 い道 っを た下 。山 た中 。に そ、の登山 道 に ク マ が 出 て き 後",
+   "source": "山梨県",
+   "lat": 35.49883,
+   "lng": 138.68323,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 登山道／対応: 関係機関へ情報提供／位置は地区の代表点（おおよそ）",
+   "hash": "574d2dab09ed76b4d580792e26bd3b52"
+  },
+  {
    "date": "2024-11-29",
    "location": "富士河口湖町 河口",
    "area": "河口",
@@ -2623,7 +2879,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山中を通る国道／対応: 富士吉田警察署へ連絡、パトロールお願い。猟友会連絡、見回りお願い。関係各所に電話・FAXなどで連絡済。／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山中を通る国道／対応: 富 ル 願 連士 お い 絡吉 願 。済田 い 関警 。係察 猟 各署 友 所へ 会 に連 連 電絡 絡 話、 、 ・パ 見 FAト 回 Xなロ り どー お で。／位置は地区の代表点（おおよそ）",
    "hash": "86034a6017efd8ad2fda300d0bda1694"
   },
   {
@@ -2643,6 +2899,22 @@
    "hash": "88eedb052225a04270e0d3ebde801eee"
   },
   {
+   "date": "2024-11-29",
+   "location": "忍野村 忍草区地内",
+   "area": "忍草区地内",
+   "detail": "19:30頃 忍 付 の野 近 川村 の 側忍 農 へ草 地 逃区 で げ地 目 た内 撃 。、 、入 そ角 の線 後花 南壇 西",
+   "source": "山梨県",
+   "lat": 35.45937,
+   "lng": 138.84586,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "忍野村",
+   "notes": "環境: 農地／対応: 時 ロ間 ーの ル経 等っ 未た 実報 施告だったためパト／位置は地区の代表点（おおよそ）",
+   "hash": "55d83e77fee17b343ead3dd994a2f623"
+  },
+  {
    "date": "2024-11-22",
    "location": "富士河口湖町 西湖地内",
    "area": "西湖地内",
@@ -2655,7 +2927,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林と湖に面した道路／対応: 防災無線による注意喚起、パトロールの実施、関係機関へ情報提要／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林と湖に面した道路／対応: 防 ロ 要災 ー無 ル線 のに 実よ 施る 、注 関意 係喚 機起 関、 へパ 情ト 報提／位置は地区の代表点（おおよそ）",
    "hash": "13454065a3c9cec22802eaeffeac5370"
   },
   {
@@ -2673,6 +2945,22 @@
    "municipality": "忍野村",
    "notes": "環境: 山林／対応: 関係機関へ情報提供／位置は地区の代表点（おおよそ）",
    "hash": "000faa9d016fce0b8ce77dadf7a4884a"
+  },
+  {
+   "date": "2024-11-21",
+   "location": "忍野村 内野地内",
+   "area": "内野地内",
+   "detail": "14:30頃 内 山野 林地 内内 (モ、ノ内 レ野 ー浅 ル間 付神 近社 ）北 に側 おのり 立、ちモ 去ノ っレ たー 。ルの音に反応して",
+   "source": "山梨県",
+   "lat": 35.44925,
+   "lng": 138.86762,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "忍野村",
+   "notes": "環境: 山林／対応: 関係機関へ情報提供／位置は地区の代表点（おおよそ）",
+   "hash": "1b84521df8c111d4ef9a116a9ee31fd6"
   },
   {
    "date": "2024-11-20",
@@ -2703,7 +2991,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林に面した道路／対応: パ 提ト 供ロール実施、関係機関へ情報／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した道路／対応: パ 提ト 供ロール実施 、関係機関へ情報／位置は地区の代表点（おおよそ）",
    "hash": "14b6ab2c6da0310d24bf85fb1f42eae1"
   },
   {
@@ -2735,7 +3023,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 住田地の道路沿い／対応: 防災無線、HP、防災アプリによる注意喚起関係、パトロール実施、関係機関へ情報提供／位置は村の地図のピン（おおよそ）",
+   "notes": "環境: 住田地の道路沿い／対応: 防 注 関災 意 係無 喚 機線 起 関、関 へH 係 情P、 、報防 パ 提災 ト 供ア ロプ ーリ ルに 実よ 施る 、／位置は村の地図のピン（おおよそ）",
    "hash": "329c5c02b3bfef3f985fe04fdb2491cb"
   },
   {
@@ -2755,6 +3043,22 @@
    "hash": "8cfb32e7e6e0be6e39ab6776f25e3978"
   },
   {
+   "date": "2024-10-31",
+   "location": "富士吉田市 新西原地内",
+   "area": "新西原地内",
+   "detail": "13:00頃 北 げ陵 た高 。校付近におり、南側に逃",
+   "source": "山梨県",
+   "lat": 35.48319,
+   "lng": 138.80416,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士吉田市",
+   "notes": "環境: 市街地／対応: 防 ル災 実無 施線 、に 関て 係注 機意 関喚 へ起 情、報パ 提ト 供ロー／位置は地区の代表点（おおよそ）",
+   "hash": "053ffec7355ec9378130f45024b45119"
+  },
+  {
    "date": "2024-10-22",
    "location": "山中湖村 平野地内",
    "area": "平野地内",
@@ -2767,7 +3071,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 集落に面した山林／対応: 現地周辺の見回り、村HP及び防災アプリに掲載、防災無線により注意喚起／位置は村の地図のピン（おおよそ）",
+   "notes": "環境: 集落に面した山林／対応: 現 意地 喚周 起辺 にの 掲見 載回 、り 防、災村 無H 線P及 にび よ防 り災ア プ リ 注／位置は村の地図のピン（おおよそ）",
    "hash": "c800b6192327168afad52fad15ea6417"
   },
   {
@@ -2783,7 +3087,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 道路／対応: 関 よ係 り機 注関 意へ 喚情 起報 、提 現供 地、 周防 辺災 の無 見線 回にり／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 道路／対応: 関 よ係 り機 注関 意へ 喚情 起報 、提 現供 地、周防 辺災 の無 見線 回にり／位置は地区の代表点（おおよそ）",
    "hash": "5b211e833c1bab1593bf137f0be2d190"
   },
   {
@@ -2803,6 +3107,22 @@
    "hash": "5325813d3f9632ebca5dfc1aa917a649"
   },
   {
+   "date": "2024-10-21",
+   "location": "富士河口湖町 西湖地内",
+   "area": "西湖地内",
+   "detail": "17:15頃 富岳風穴前交差点付近の国道139号 入を っ南 てか 行ら っ北 たに 。横切り、森に",
+   "source": "山梨県",
+   "lat": 35.49469,
+   "lng": 138.68208,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 道路／対応: 関 よ係 り機 注関 意へ 喚情 起報 、提 現供 地、周防 辺災 の無 見線 回にり／位置は地区の代表点（おおよそ）",
+   "hash": "e4705f6ffdfdad5ccbded23293f09b7c"
+  },
+  {
    "date": "2024-10-17",
    "location": "富士河口湖町 精進地内",
    "area": "精進地内",
@@ -2815,7 +3135,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林／対応: 関 見係 回機 り関 、へ 防情 災報 無提 線供 に、 よ現 り地 注周 意辺 喚の起／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 関 見係 回機 り関 、へ 防情 災報 無提 線供 に、よ現 り地 注周 意辺 喚の起／位置は地区の代表点（おおよそ）",
    "hash": "04446b9cd25939b0979315c8d558bdf1"
   },
   {
@@ -2847,7 +3167,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "忍野村",
-   "notes": "環境: 山林に面した集落付近／対応: 関 り係 注機 意関 喚へ 起情報提供、広報車によ／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した集落付近／対応: 関 り係 注機 意関 喚へ 起情報提供 、広報車によ／位置は地区の代表点（おおよそ）",
    "hash": "cda0b28269fb5f82099551241564d41f"
   },
   {
@@ -2867,6 +3187,22 @@
    "hash": "08ef4890da87c6ef5b8396a9afd17292"
   },
   {
+   "date": "2024-09-28",
+   "location": "富士吉田市 上暮地地内",
+   "area": "上暮地地内",
+   "detail": "9:00頃 木 山か 中ら に落 逃下 げし てた い。 った。",
+   "source": "山梨県",
+   "lat": 35.49041,
+   "lng": 138.8118,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士吉田市",
+   "notes": "環境: 集落付近の山中／対応: 関 に係 ク機 マ関 出へ 没情 注報 意提 の供 掲、示付 設近 置の林道／位置は地区の代表点（おおよそ）",
+   "hash": "dc4142e2e9360908c0a7f60afe4e340f"
+  },
+  {
    "date": "2024-09-25",
    "location": "道志村 大栗地内",
    "area": "大栗地内",
@@ -2883,6 +3219,22 @@
    "hash": "11bca4b07aa1866bd3733ee70b417d67"
   },
   {
+   "date": "2024-09-25",
+   "location": "道志村 大栗地内",
+   "area": "大栗地内",
+   "detail": "8:30頃 茂 目み 撃の 者中 がに 出い した た。音に驚き山へ逃げていった。",
+   "source": "山梨県",
+   "lat": 35.52887,
+   "lng": 139.03456,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "道志村",
+   "notes": "環境: 山林に面した道路／対応: 防 認 び災 、檻無 猟 の線 友 設に 会 置よ にり よ注 る意 パ喚 ト起 ロ、 ー現 ル地 お確 よ／位置は地区の代表点（おおよそ）",
+   "hash": "8559e77c1f6beb1551c41514563c2e71"
+  },
+  {
    "date": "2024-09-24",
    "location": "山中湖村 長池地内",
    "area": "長池地内",
@@ -2895,7 +3247,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 山林に面した別荘地／対応: 猟友会に巡回依頼、村HPおよび防災アプリにマップ掲載、防災無線により注意喚起／位置は村の地図のピン（おおよそ）",
+   "notes": "環境: 山林に面した別荘地／対応: 猟 に友 よ会 りに 注巡 意回 喚依 起頼 プ、掲村 載H 、Pお 防よ 災び 無防災 ア プ リ に マ ッ 線／位置は村の地図のピン（おおよそ）",
    "hash": "0996544a70faca135f79292f3ad688bd"
   },
   {
@@ -2943,7 +3295,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士吉田市",
-   "notes": "環境: 山林に面した道路／対応: 市 の職 追員 いに 払よ いる 、パ 関ト 係ロ 機ー 関ル へ、 情花 報火 提で供／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した道路／対応: 市 の職 追員 いに 払よ いる 、パ 関ト 係ロ 機ー 関ル へ、情花 報火 提で供／位置は地区の代表点（おおよそ）",
    "hash": "a7bf28b91f06c23704ddcc5d9c46dd78"
   },
   {
@@ -2975,7 +3327,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "道志村",
-   "notes": "環境: 山林に面した道路／対応: 防災無線により注意喚起、現地確認、猟友会によるパトロールおよび檻の設置／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した道路／対応: 防 認 び災 、檻無 猟 の線 友 設に 会 置よ にり よ注 る意 パ喚 ト起 ロ、 ー現 ル地 お確 よ／位置は地区の代表点（おおよそ）",
    "hash": "0c7d798fe45e6ffd48f3b5c3b20b485a"
   },
   {
@@ -2991,7 +3343,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山の中の道路／対応: 関 注係 意機 喚関 起に情報共有、近隣施設に／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山の中の道路／対応: 関 注係 意機 喚関 起に情報共有 、近隣施設に／位置は地区の代表点（おおよそ）",
    "hash": "c9d38d0710cb1c7cf0431f4bffdc16e7"
   },
   {
@@ -3009,6 +3361,22 @@
    "municipality": "富士河口湖町",
    "notes": "環境: 山際の住宅地の草むら／対応: 警察がパトロール、防災無線は深夜のため翌日対応、近隣の学校に注意喚起／位置は地区の代表点（おおよそ）",
    "hash": "012418c2db726ad859fe36885de9d798"
+  },
+  {
+   "date": "2024-08-21",
+   "location": "富士河口湖町 船津地内",
+   "area": "船津地内",
+   "detail": "23:30頃 人 向家 かの っ目 たの 。前にいた。草むらへ",
+   "source": "山梨県",
+   "lat": 35.49584,
+   "lng": 138.75575,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の住宅地の草むら／対応: 警 夜 注察 の 意が た 喚パ め 起ト 翌ロ 日ー 対ル 応、 、防 近災 隣無 の線 学は 校深 に／位置は地区の代表点（おおよそ）",
+   "hash": "3ce3086132bdbafcad78241ca1c1ca8c"
   },
   {
    "date": "2024-08-20",
@@ -3039,7 +3407,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士吉田市",
-   "notes": "環境: 付近に人家のない山中／対応: 市職員でパトロール、猟友会、警察へ情報共有、防災無線により注意喚起／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 付近に人家のない山中／対応: 市 意職 喚員 起で 報パ 共ト 有ロ 、ー 防ル 災、無猟 線友 に会 よ、り警察 へ 情 注／位置は地区の代表点（おおよそ）",
    "hash": "69280a8c4843e2322c04f8cbb69e5b54"
   },
   {
@@ -3059,6 +3427,22 @@
    "hash": "4d902887f12f04c919ade5382ed62cb6"
   },
   {
+   "date": "2024-08-17",
+   "location": "富士河口湖町 船津地内",
+   "area": "船津地内",
+   "detail": "18:30頃 民 へ家 む付 か近 っを た歩 。いていた。草むら",
+   "source": "山梨県",
+   "lat": 35.50071,
+   "lng": 138.75884,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山沿いの住宅地／対応: 町 無 い職 線 払員 に い、よ 対警 り 策察 注 実が 意 施パ 喚ト 起ロ 、ー 翌ル 日、か防 ら災 追／位置は地区の代表点（おおよそ）",
+   "hash": "140c1f3e82d7668976514a69c6950ce4"
+  },
+  {
    "date": "2024-08-15",
    "location": "富士河口湖町 富士ヶ嶺地内",
    "area": "富士ヶ嶺地内",
@@ -3075,6 +3459,22 @@
    "hash": "140b746aa9507052eebb9ec176a50e6b"
   },
   {
+   "date": "2024-08-15",
+   "location": "富士河口湖町 富士ヶ嶺地内",
+   "area": "富士ヶ嶺地内",
+   "detail": "9:00頃 ド のク 後タ 森ー へビ 戻レ っッ てジ い内 っで た目 。撃 、そ",
+   "source": "山梨県",
+   "lat": 35.50097,
+   "lng": 138.75735,
+   "count": 3,
+   "bear_type": "オトナ・コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 農地の間にある別荘地／対応: 猟 注友 意会 喚に 起見 ロ回 ーり ルと 、花 防火 災の 無依 線頼 に、よ警察 が パ ト り／位置は地区の代表点（おおよそ）",
+   "hash": "efbdc7102d99116d11391fb80807f9a6"
+  },
+  {
    "date": "2024-08-12",
    "location": "富士河口湖町 船津地内",
    "area": "船津地内",
@@ -3087,7 +3487,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: ホテルや住宅街のある場所／対応: 町職員、警察がパトロール／位置は地区の代表点（おおよそ）",
+   "notes": "環境: ホテルや住宅街のある場所／対応: 町職員 、警察がパトロール／位置は地区の代表点（おおよそ）",
    "hash": "83ffc657fbad8a12d09e770846c8e3a3"
   },
   {
@@ -3103,7 +3503,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山沿いのホテルがある住宅地／対応: 町 無職 線員 に、 よ警 り察 注が 意パ 喚ト 起ロール、防災／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山沿いのホテルがある住宅地／対応: 町 無職 線員 に、よ警 り察 注が 意パ 喚ト 起ロール、防災／位置は地区の代表点（おおよそ）",
    "hash": "4bc94f0b98359869896e0e2542c10a17"
   },
   {
@@ -3139,6 +3539,22 @@
    "hash": "b3434162bf10a7d9b4cd8236c89f57f9"
   },
   {
+   "date": "2024-08-11",
+   "location": "富士河口湖町 船津地内",
+   "area": "船津地内",
+   "detail": "22:00頃 上 みの ち段 方交 向差 へ点 行付 っ近 たに 。いた。御坂",
+   "source": "山梨県",
+   "lat": 35.50239,
+   "lng": 138.75714,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際に近い駅のある住宅地／対応: 町 の職 た員 め、猟警 友察 会が ・パ 防ト 災ロ 無ー 線ル に、 つ夜 い間 ては翌日対応／位置は地区の代表点（おおよそ）",
+   "hash": "dc69d5a21012418ff231e536e4a08f9b"
+  },
+  {
    "date": "2024-08-03",
    "location": "富士河口湖町 河口地内",
    "area": "河口地内",
@@ -3153,6 +3569,22 @@
    "municipality": "富士河口湖町",
    "notes": "環境: 山際の住宅や貸別荘のある場所／対応: 警察・猟友会によるパトロール、追い払い花火実施防災無線による注意喚起関係機関へ情報提供／位置は地区の代表点（おおよそ）",
    "hash": "41c01bf7d49020c45c19734249a58488"
+  },
+  {
+   "date": "2024-08-03",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "18:30頃 河口地内の別荘地の住宅敷地から 後ク 山マ のが 方飛 へび 行出 っし たて 。きた。その",
+   "source": "山梨県",
+   "lat": 35.53271,
+   "lng": 138.76376,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の住宅や貸別荘のある場所／対応: 警 追察 い・ 払猟 い友 花会 火に 実よ 施るパトロール、防災無線による注意喚起関係機関へ情報提供／位置は地区の代表点（おおよそ）",
+   "hash": "10d79c3a724ca3a4f79b8a9852c9aa82"
   },
   {
    "date": "2024-07-31",
@@ -3187,6 +3619,22 @@
    "hash": "c3dabe657c6e76f64ee6e7a0aa28bc0a"
   },
   {
+   "date": "2024-07-23",
+   "location": "富士河口湖町 精進地内",
+   "area": "精進地内",
+   "detail": "7:30頃 精 渡 戻進 っ っ地 て て内 い い、た っ山 。たか そ 。ら の出 後て 西き のて 山道 へを",
+   "source": "山梨県",
+   "lat": 35.49083,
+   "lng": 138.61186,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 湖畔のキャンプ場／対応: 警 花察 火・ に町 よ職 る員 追に いよ 払る いパ 実ト 施ロール、防災無線による注意喚起／位置は地区の代表点（おおよそ）",
+   "hash": "f1d06ffc1044945d65cb918f934a7f73"
+  },
+  {
    "date": "2024-07-20",
    "location": "山中湖村 長池地内",
    "area": "長池地内",
@@ -3199,7 +3647,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 別荘地内／対応: 村 猟内 友放 会送 にに よよ るり パ注 ト意 ロ喚 ー起ル実施／位置は村の地図のピン（おおよそ）",
+   "notes": "環境: 別荘地内／対応: 村内放送により注意喚起猟友会によるパトロール実施／位置は村の地図のピン（おおよそ）",
    "hash": "f2188527790623410e037a1e99309bda"
   },
   {
@@ -3219,6 +3667,22 @@
    "hash": "72cd52c3f7e568218522fc81226f7e2c"
   },
   {
+   "date": "2024-07-08",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "13:00頃 大石地内の山林内のバギーコース 驚に きク 山マ のが 奥い へた 逃。げエ たン 。ジン音に",
+   "source": "山梨県",
+   "lat": 35.52233,
+   "lng": 138.73096,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林内のバギーコース／対応: 目 防 め撃 災 パ地 無 ト点 線 ロが は ー山 せ ルの ず 不奥 。実で 警 施あ 察 。っ もた 山た 中め の、た／位置は地区の代表点（おおよそ）",
+   "hash": "a415d39a0aa807d1acbe81868e049cc7"
+  },
+  {
    "date": "2024-07-07",
    "location": "富士河口湖町 河口地内",
    "area": "河口地内",
@@ -3231,7 +3695,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山際の観光施設、ホテル、住宅のある地域／対応: 防 関災 係無 機線 関に へよ 情る 報注 共意 有喚起／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山際の観光施設 住、宅ホ のテ あル る、地域／対応: 防災無線による注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
    "hash": "26702cce24795328830a67d269f80107"
   },
   {
@@ -3247,7 +3711,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山際の観光施設、ホテル、住宅のある地域／対応: 防 町災 職放 員送 がに パよ トり ロ注 ー意 ル喚起／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山際の観光施設 住、宅ホ のテ あル る、地域／対応: 防災放送により注意喚起町職員がパトロール／位置は地区の代表点（おおよそ）",
    "hash": "5b1159b8b7fe4de02b801c1d889d4629"
   },
   {
@@ -3283,6 +3747,38 @@
    "hash": "8d2fbf5cc891d8d643780e12dfe38df4"
   },
   {
+   "date": "2024-07-06",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "9:30頃 河口地内の宿泊施設の敷地裏の木 入に っ登 てっ いて っい たた 。。その後山へ",
+   "source": "山梨県",
+   "lat": 35.53136,
+   "lng": 138.76144,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の宿泊施設 住宅がある、地域／対応: 町 関職 係員 機・ 関警 へ察 情が 。報現 共場 有確 。認 花中 火、に木 よに登 っ て い る の を 発 見 る追 い 払 い 実 施／位置は地区の代表点（おおよそ）",
+   "hash": "6ee0aac5976dc5013f84c8aaba38df00"
+  },
+  {
+   "date": "2024-07-06",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "13:30頃 河 の口 林地 に内 １の 頭住 い宅 た敷 。地に１頭、裏",
+   "source": "山梨県",
+   "lat": 35.53048,
+   "lng": 138.76863,
+   "count": 2,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の宿泊施設 住宅がある、地域／対応: 猟 防友 災会 無・ 線警 に察 よに るよ 注る 意パ 喚ト 起ロ 。ール、花 火 に よ る 追 い 払 い 実 施同地区内で目撃が多発したため警／位置は地区の代表点（おおよそ）",
+   "hash": "865870da114beabbbcab88741a6b0a95"
+  },
+  {
    "date": "2024-07-03",
    "location": "富士河口湖町 大石地内",
    "area": "大石地内",
@@ -3297,6 +3793,22 @@
    "municipality": "富士河口湖町",
    "notes": "環境: 住宅地に近い山林に面した道路／対応: 町職員・猟友会でパトロール、花火による追い払い実施関係機関へ情報共有／位置は地区の代表点（おおよそ）",
    "hash": "8b0a72ebc77f72bec2cf2f4220574744"
+  },
+  {
+   "date": "2024-07-03",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "16:00頃 大 面石 し地 た内 宿大 泊石 施出 設張 に所 向付 か近 う。道山 ににいた い。 っそ たの 。後山の方へ向かって",
+   "source": "山梨県",
+   "lat": 35.52019,
+   "lng": 138.72694,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 住宅地に近い山林に面した道路／対応: 町 火職 に員 よ・ る猟 追友 い会 払で いパ 実ト 施ロール、花関係機関へ情報共有パ／位置は地区の代表点（おおよそ）",
+   "hash": "c0bd05d67241d6f321db775220454507"
   },
   {
    "date": "2024-07-01",
@@ -3329,6 +3841,22 @@
    "municipality": "富士河口湖町",
    "notes": "環境: 山際の住宅や貸別荘／対応: 町職員・警察でパトロール／位置は地区の代表点（おおよそ）",
    "hash": "d121b73e5602d6e9c5437c363238a75a"
+  },
+  {
+   "date": "2024-07-01",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "9:00頃 河 側口 の地 山内 のの 方住 へ宅 行庭 っを た横 。切り、北",
+   "source": "山梨県",
+   "lat": 35.53028,
+   "lng": 138.76804,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の住宅や貸別荘／対応: 町職員・警察でパトロール／位置は地区の代表点（おおよそ）",
+   "hash": "e18a5f8e2331c5c6ac1009f353704e90"
   },
   {
    "date": "2024-06-30",
@@ -3379,6 +3907,38 @@
    "hash": "155627c98f097519b19ac67edf094f29"
   },
   {
+   "date": "2024-06-30",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "9:00頃 大石地内の宿泊施設の敷地内にい てた 行。 っ敷 た地 。内を徘徊後山へ去っ",
+   "source": "山梨県",
+   "lat": 35.5248,
+   "lng": 138.72753,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山 あ際 る、宿山 泊中 施に設／対応: 防災無線による注意喚起猟友会によるパトロール／位置は地区の代表点（おおよそ）",
+   "hash": "a359fe649aff24bb1af92ed51cb89e01"
+  },
+  {
+   "date": "2024-06-30",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "18:00頃 大石地内の宿泊施設近辺の山際に 行い った た。 。その後北西方向の山に",
+   "source": "山梨県",
+   "lat": 35.52288,
+   "lng": 138.73376,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 宿泊施設等に隣接した山際／対応: 防災無線による注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "8da83cd56ad810eeca06d01bd2fe2f84"
+  },
+  {
    "date": "2024-06-29",
    "location": "富士河口湖町 大石地内",
    "area": "大石地内",
@@ -3395,6 +3955,22 @@
    "hash": "df5b87d4d68463072ccedcfab2448b34"
   },
   {
+   "date": "2024-06-29",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "17:00頃 大石地内の宿泊施設の敷地内にい たた 。。その後北の山側へ向かっ",
+   "source": "山梨県",
+   "lat": 35.52622,
+   "lng": 138.72812,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山 あ際 る、宿山 泊中 施に設／対応: 防災無線で注意喚起猟友会によるパトロール関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "4b2e484d686719b488b82709893debce"
+  },
+  {
    "date": "2024-06-28",
    "location": "富士河口湖町 河口地内",
    "area": "河口地内",
@@ -3407,7 +3983,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林／対応: 警察・猟友会でパトロール、花火により追い払い防災無線で注意喚起、現場近くの民家へ電話連絡／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 警 に察 よ・ り猟 追友 い会 払で いパトロール、花火防 民災 家無 へ線 電で 話注 連意 絡喚起 、現場近くの／位置は地区の代表点（おおよそ）",
    "hash": "fccd7741b7a39d3600e65717433b55f9"
   },
   {
@@ -3423,7 +3999,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 別荘地内／対応: 村 猟内 友放 会送 にに よよ るる パ注 ト意 ロ喚 ー起ル／位置は村の地図のピン（おおよそ）",
+   "notes": "環境: 別荘地内／対応: 村内放送による注意喚起猟友会によるパトロール／位置は村の地図のピン（おおよそ）",
    "hash": "55431133b107d31ac94862f7fd2fc728"
   },
   {
@@ -3443,6 +4019,22 @@
    "hash": "ac26d354e868bf91fb817588d70d280c"
   },
   {
+   "date": "2024-06-27",
+   "location": "鳴沢村 鳴沢地内",
+   "area": "鳴沢地内",
+   "detail": "18:30頃 マウントフジキャンプリゾート周 に辺 逃の げ道 た路 。にいた。その後山林",
+   "source": "山梨県",
+   "lat": 35.47807,
+   "lng": 138.704,
+   "count": 1,
+   "bear_type": "不明",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "鳴沢村",
+   "notes": "環境: 山林に面した道路(付近にキャンプ場や会社あり）／対応: 村 業内 等放 へ送 情に 報よ 共る 有注意喚起 、近隣企／位置は地区の代表点（おおよそ）",
+   "hash": "a0fc311f1c06ef7a9951237ad88fe2ea"
+  },
+  {
    "date": "2024-06-22",
    "location": "富士河口湖町 西湖南地内",
    "area": "西湖南地内",
@@ -3455,7 +4047,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林に面した道路／対応: 町職員、警察でパトロール、付近で注意喚起活動防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した道路／対応: 町 で職 注員 意、喚警 起察 活で 動パトロール、付近防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
    "hash": "6126a318c6c03403aa1bd2b7a0edb61f"
   },
   {
@@ -3471,7 +4063,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林／対応: 町職員、警察でパトロール、付近で注意喚起活動／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 町 で職 注員 意、喚警 起察 活で 動パトロール、付近／位置は地区の代表点（おおよそ）",
    "hash": "63240d91841215a6d3070a04ad8c3475"
   },
   {
@@ -3491,6 +4083,22 @@
    "hash": "22b252cf933a0c76a0da4681fd0887a6"
   },
   {
+   "date": "2024-06-22",
+   "location": "富士河口湖町 本栖地内",
+   "area": "本栖地内",
+   "detail": "12:30頃 竜 モヶ 2）岳 の付 ク近 マ親 が子 い(オ たト 。ナ1、コド",
+   "source": "山梨県",
+   "lat": 35.46183,
+   "lng": 138.60035,
+   "count": 3,
+   "bear_type": "オトナ・コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林／対応: 通 線報 等が 対目 応撃 せ翌 ず日 パだ トっ ロた ーこ ルと 、、防山 災中で あ っ た た め 無／位置は地区の代表点（おおよそ）",
+   "hash": "a645ac4b2d3a22eb60552b8771804ab7"
+  },
+  {
    "date": "2024-06-20",
    "location": "富士河口湖町 河口地内",
    "area": "河口地内",
@@ -3503,7 +4111,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林に面した宿泊施設／対応: 町職員、警察でパトロール、付近で注意喚起活動防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した宿泊施設／対応: 町 で職 注員 意、喚警 起察 活で 動パトロール、付近防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
    "hash": "80fec6073d94f94cfad77449b69286ad"
   },
   {
@@ -3519,7 +4127,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山際の住宅・宿泊施設／対応: 町職員・警察・猟友会でパトロール、追い払い実施防災無線で注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山際の住宅・宿泊施設／対応: 町職員・警察・猟友会でパトロール 防、災追 無い 線払 でい 注実 意施喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
    "hash": "afe73c9a8ccf25fb06b9ab0057e123fa"
   },
   {
@@ -3535,7 +4143,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林に面した川沿い(住宅、宿泊施設近隣）／対応: 町職員、警察でパトロール、付近で注意喚起活動防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林に面した川 宿沿 泊い 施( 設住 近宅 、隣）／対応: 町 で職 注員 意、喚警 起察 活で 動パトロール、付近防災無線による注意喚起関係機関に情報共有／位置は地区の代表点（おおよそ）",
    "hash": "79350c2d8714150a51e3357d98bd0d2a"
   },
   {
@@ -3551,7 +4159,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山際の住宅・宿泊施設／対応: 警察、猟友会が周辺パトロール防災無線で注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山際の住宅・宿泊施設／対応: 警 防察 災、無猟 線友 で会 注が 意周 喚辺 起パトロール関係機関へ情報共有／位置は地区の代表点（おおよそ）",
    "hash": "a5da327ed67bbb78ccbadc10eeee20bb"
   },
   {
@@ -3567,7 +4175,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山際の住宅・宿泊施設／対応: 町職員・警察でパトロール、追い払いの実施関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山際の住宅・宿泊施設／対応: 町 払職 い員 の・ 実警 施察でパトロール、追い関係機関へ情報共有／位置は地区の代表点（おおよそ）",
    "hash": "2db9574fbbc31156d8adabd230941d91"
   },
   {
@@ -3585,6 +4193,22 @@
    "municipality": "富士河口湖町",
    "notes": "環境: 山際の住宅地／対応: 町役場職員がパトロール、花火による追い払い関係機関へ情報共有、注意喚起／位置は地区の代表点（おおよそ）",
    "hash": "26ffcffb116eb49c3478a020289ea051"
+  },
+  {
+   "date": "2024-06-17",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "17:00頃 河口地区広瀬交差点付近の民家の 湖前 畔に 方い 向た ）。 へそ いの っ後 た、 。南（河口",
+   "source": "山梨県",
+   "lat": 35.53174,
+   "lng": 138.76638,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山際の住宅地／対応: 町 よ役 る場 追職 い員 払が いパトロール、花火に関係機関へ情報共有 、注意喚起／位置は地区の代表点（おおよそ）",
+   "hash": "c1aa58e98c0a7e7e6482ca34ea57e9b0"
   },
   {
    "date": "2024-06-16",
@@ -3635,6 +4259,54 @@
    "hash": "f0e1e646674ad7babf72759e507cc4ef"
   },
   {
+   "date": "2024-06-16",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "8:00頃 大石出張所付近の民家の庭にクマ へが 逃入 げっ たて 。きた。その後山の方",
+   "source": "山梨県",
+   "lat": 35.52327,
+   "lng": 138.72615,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林に隣接した住宅地／対応: 町 ロ役 ー場 ル職員 、警察 、猟友会でパト関係各所へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "2ca2688aa4ef2ec9a0eb8fb7af48c7aa"
+  },
+  {
+   "date": "2024-06-16",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "9:00頃 大石地区住宅街から北東にある山 かの っ斜 た面におり、南東方向へ向",
+   "source": "山梨県",
+   "lat": 35.52221,
+   "lng": 138.73244,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 住宅に隣接した山林／対応: 町 ロ役 ー場 ル職員 、警察 、猟友会でパト関係各所へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "547cd908ca96bc6e687664b098ca7524"
+  },
+  {
+   "date": "2024-06-16",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "17:00頃 大石地区東（長崎トンネルから北 東西 の付 山近 へ） 向の か山 っの た斜 。面におり、",
+   "source": "山梨県",
+   "lat": 35.51942,
+   "lng": 138.7321,
+   "count": 1,
+   "bear_type": "不明",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林／対応: 防災無線による注意喚起／位置は地区の代表点（おおよそ）",
+   "hash": "791cf9e29760f5d145b204cbd639ed34"
+  },
+  {
    "date": "2024-06-14",
    "location": "富士河口湖町 大石地内",
    "area": "大石地内",
@@ -3651,6 +4323,22 @@
    "hash": "451f6949d985b7f5118c566c19cab647"
   },
   {
+   "date": "2024-06-14",
+   "location": "富士河口湖町 大石地内",
+   "area": "大石地内",
+   "detail": "14:30頃 大 の石 後小 山学 の校 上北 の東 方山 へ際 歩に いい てた 行。 っそた。",
+   "source": "山梨県",
+   "lat": 35.52129,
+   "lng": 138.73142,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林／対応: 町 ロ役 ー場 ル職員 、警察で現地をパト関係機関に情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "bc7325860d9a684c2492c47b2eb176e8"
+  },
+  {
    "date": "2024-06-13",
    "location": "富士吉田市 上暮地地内",
    "area": "上暮地地内",
@@ -3665,6 +4353,22 @@
    "municipality": "富士吉田市",
    "notes": "環境: 山林／対応: 防 関災 係無 機線 関に へよ 情る 報注 共意 有喚起／位置は地区の代表点（おおよそ）",
    "hash": "20e8b39c7360a81d6320ff139baaf5b7"
+  },
+  {
+   "date": "2024-06-13",
+   "location": "富士吉田市 上暮地地内",
+   "area": "上暮地地内",
+   "detail": "18:30頃 数見川上流(霜山へ向かう登山道 げ) て付 い近 っに たい 。た。その後山中へ逃",
+   "source": "山梨県",
+   "lat": 35.49019,
+   "lng": 138.80635,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士吉田市",
+   "notes": "環境: 山林／対応: 防災無線による注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "f55246269ee057c238981ed746582a10"
   },
   {
    "date": "2024-06-12",
@@ -3699,6 +4403,38 @@
    "hash": "c014302742083e007195119ea291b7bf"
   },
   {
+   "date": "2024-06-12",
+   "location": "山中湖村 山中地内",
+   "area": "山中地内",
+   "detail": "6:30頃 山中375番地一の橋の交差点付近に たい 。た。その後林の方へ移動し",
+   "source": "山梨県",
+   "lat": 35.415,
+   "lng": 138.853,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "山中湖村",
+   "notes": "環境: 道路／対応: 放送により注意喚起関係機関へ情報共有／位置は村の地図のピン（おおよそ）",
+   "hash": "523acec37c4626803a52ee04d7d4238a"
+  },
+  {
+   "date": "2024-06-12",
+   "location": "富士河口湖町 河口地内",
+   "area": "河口地内",
+   "detail": "14:30頃 国道137号線梢橋付近の山の斜面に たい 。た。その後山に戻っていっ",
+   "source": "山梨県",
+   "lat": 35.52966,
+   "lng": 138.76617,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士河口湖町",
+   "notes": "環境: 山林／対応: 防 起災無線 、電話連絡により注意喚関係機関へ情報共有警察 、猟友会で現場パトロールと／位置は地区の代表点（おおよそ）",
+   "hash": "841068c2abf812f96ca4639274047411"
+  },
+  {
    "date": "2024-06-10",
    "location": "忍野村 忍草地内",
    "area": "忍草地内",
@@ -3713,6 +4449,22 @@
    "municipality": "忍野村",
    "notes": "環境: 道路／対応: 広 関報 係車 機に 関よ へり 情注 報意 共喚 有起／位置は地区の代表点（おおよそ）",
    "hash": "b84086903c809c5ac48d462ca56a1921"
+  },
+  {
+   "date": "2024-06-10",
+   "location": "忍野村 忍草地内",
+   "area": "忍草地内",
+   "detail": "18:30頃 国道138号線（自衛隊入口交差点）からファナック総合グラウン 林ド の付 中近 での じ道 っ路 とに しい てた い。たそ 。の後",
+   "source": "山梨県",
+   "lat": 35.45834,
+   "lng": 138.84978,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "忍野村",
+   "notes": "環境: 道路／対応: 広報車により注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "3a1bf4e6d25e1b4b9b3eab2277576b39"
   },
   {
    "date": "2024-06-06",
@@ -3731,6 +4483,22 @@
    "hash": "7ebbf41a8f428bb1a0ef2cdc7d0253b7"
   },
   {
+   "date": "2024-06-06",
+   "location": "富士吉田市 上吉田諏訪内地内",
+   "area": "上吉田諏訪内地内",
+   "detail": "10:00頃 北口本宮富士浅間神社付近の参拝 田所 口( 遊大 歩塚 道丘 方) 面に へい 逃た げ。てそ いの後 っ吉た。",
+   "source": "山梨県",
+   "lat": 35.45135,
+   "lng": 138.76981,
+   "count": 1,
+   "bear_type": "コドモ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "富士吉田市",
+   "notes": "環境: 道路／対応: 市職員と猟友会でパトロール防災無線で注意喚起関係機関へ情報共有／位置は地区の代表点（おおよそ）",
+   "hash": "c673d6452eca4b89926a2a30cffbe838"
+  },
+  {
    "date": "2024-06-04",
    "location": "忍野村 忍草地内",
    "area": "忍草地内",
@@ -3743,7 +4511,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "忍野村",
-   "notes": "環境: 山林／対応: 広 関報 係車 機に 関よ へり 情、 報住 提民 供に注意喚起／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 広 関報 係車 機に 関よ へり 情、報住 提民 供に注意喚起／位置は地区の代表点（おおよそ）",
    "hash": "310961fddfa440bf34f8b47445695938"
   },
   {
@@ -3795,6 +4563,22 @@
    "hash": "dd2f39703afbc164bb9b09a617c376d8"
   },
   {
+   "date": "2024-05-26",
+   "location": "忍野村 二十曲峠付近",
+   "area": "二十曲峠付近",
+   "detail": "14:00頃 二十曲峠下山中に登山道で遭遇 い。 っ大 た声 。で叫んだところ逃げて",
+   "source": "山梨県",
+   "lat": 35.46281,
+   "lng": 138.85096,
+   "count": 1,
+   "bear_type": "オトナ",
+   "verified": 1,
+   "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
+   "municipality": "忍野村",
+   "notes": "環境: 山林／対応: 猟 で友 注会 意、喚村 起職 実員 施で二十曲峠登山口／位置は地区の代表点（おおよそ）",
+   "hash": "068574246a81be4cda8088c6c38abf30"
+  },
+  {
    "date": "2024-05-25",
    "location": "富士吉田市 大明見地内",
    "area": "大明見地内",
@@ -3839,7 +4623,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "山中湖村",
-   "notes": "環境: 山林／対応: 防 ト災 ロ無 ー線 ルで を注 依意 頼喚起、猟友会にパ／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 防 ト災 ロ無 ー線 ルで を注 依意 頼喚起 、猟友会にパ／位置は地区の代表点（おおよそ）",
    "hash": "710e16ae32af63aa91694d59f4504de9"
   },
   {
@@ -3855,7 +4639,7 @@
    "verified": 1,
    "source_url": "https://www.pref.yamanashi.jp/shizen/kuma2.html",
    "municipality": "富士河口湖町",
-   "notes": "環境: 山林／対応: 防災無線で注意喚起猟友会に追い払い、パトロールを依頼／位置は地区の代表点（おおよそ）",
+   "notes": "環境: 山林／対応: 防災無線で注意喚起猟 依友 頼会に追い払い、パトロールを／位置は地区の代表点（おおよそ）",
    "hash": "478e0fcc9c7a59ae284e8632cd6a2918"
   }
  ]
