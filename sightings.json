@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-10-22T14:19:55+00:00",
- "total": 291,
+ "generated_at": "2026-10-23T14:03:15+00:00",
+ "total": 292,
  "sightings": [
+  {
+   "date": "2026-10-23",
+   "location": "山中湖村 山中地区（忍野村境）",
+   "area": "山中地区（忍野村境）",
+   "detail": "山中湖村の目撃情報地図に掲載（No.44）",
+   "source": "山中湖村",
+   "lat": 35.447,
+   "lng": 138.858,
+   "count": 1,
+   "bear_type": "",
+   "verified": 1,
+   "source_url": "https://www.vill.yamanakako.lg.jp/info/1596",
+   "municipality": "山中湖村",
+   "notes": "位置は村の地図のピン（おおよそ）",
+   "hash": "3209988a27b127be07ba50d7a1c6b477"
+  },
   {
    "date": "2026-10-22",
    "location": "山中湖村 平野地区",
